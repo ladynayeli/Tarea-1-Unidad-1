@@ -19,9 +19,15 @@ Describir y analizar todos los temas abordados en el capítulo 1 y 2, lo que per
 
 3.-Resolución de ejercicios 
 
-CAPITULO 1
+CAPITULO 1   
+
 Notación Científica
-2. Exprese cada número fraccionario en notación científica:
+
+2. Exprese cada número fraccionario en notación científica: 
+  
 a)	1/500 = 0.002=2x10^-3
+
 b)	1/2,000= 0.0005 = 5x10^-4
+
 c)	1/5,000,000= 0.0000002= 2x10^-7
+
