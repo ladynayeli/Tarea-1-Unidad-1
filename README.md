@@ -297,8 +297,60 @@ El circuito eléctri.
 ![image](https://user-images.githubusercontent.com/105687213/168752828-f03da48f-92a8-4442-b2d9-691a84113cbd.png)
 
 
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+En R5 siempre habrá corriente sin importar la posición de los interruptores.
 
 
+![image](https://user-images.githubusercontent.com/105687213/168752992-e7d28feb-b0ed-40d1-af3b-6178cf480c0f.png)
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+
+
+![image](https://user-images.githubusercontent.com/105687213/168753024-c512fec6-ee53-430f-921b-fca89d70c083.png)
+
+Mediciones de circuitos básicas
+ 
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+Se corta primero la energía eléctrica, se desconecta el resistor 2 del circuito, luego se conecta al óhmetro a través del resistor R2
+
+![image](https://user-images.githubusercontent.com/105687213/168753121-9c994361-fcb1-458b-8ad5-d2ff85b58678.png)
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/105687213/168753266-cf04ea5d-9647-4bca-a76f-cfbe61fd8663.png)
+
+
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+
+![image](https://user-images.githubusercontent.com/105687213/168753313-a2715939-b652-415f-a6c0-1d9e0081fab7.png)
+
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+La resistencia que se está midiendo es de 100 Ω 
+
+![image](https://user-images.githubusercontent.com/105687213/168753362-cba3ca12-cbd8-4aa3-a039-aaf3d6839c69.png)
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+Un multímetro de 4 ½ dígitos muestra recuenteos de 19.999 de resolución.
+
+3. Video
+
+4. Conclusiones
+
+•	Tras el análisis, podemos deducir que la notación científica y la notación de ingeniería son dos cosas diferentes, ya que en la notación científica puede el exponente tomar distintos valores sean positivos o negativos, en cambio la notación de ingenierías el exponente toma valores de múltiplos de 3, cabe mencionar que esta notación sirve para representar valores como de voltaje, corriente, resistencia, capacitores. 
+
+•	Además, podemos decir que el voltaje, la corriente y resistencia son cantidades básicas de todos los circuitos eléctricos, de este modo las fuentes de voltaje proporcionan energía eléctrica o fuerza electromotriz y la fuente de corriente proporciona corriente constante de cualquier carga. 
+
+
+•	Finalmente, los conceptos básicos permitieron que la resolución de los ejercicios, se hayan elaborado de manera ordenada y eficiente.
+
+
+4.Bibliografia
+
+Floyd, T. (2007). Principios de circuitos electricos. CDMX, Mexico: Pearson.
 
 
 
