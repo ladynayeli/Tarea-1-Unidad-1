@@ -349,6 +349,8 @@ Un multímetro de 4 ½ dígitos muestra recuenteos de 19.999 de resolución.
 
 4.Vide
 
+https://www.youtube.com/watch?v=-nhWVAkItYs
+
 
 5. Conclusiones
 
