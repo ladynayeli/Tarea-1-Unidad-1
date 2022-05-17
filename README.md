@@ -134,6 +134,8 @@ c)	100(55x10^-3) = 5.5 = 5500x10^3
 	275kΩ=〖275x10〗^3 Ω
 
 	10MW= 〖10x10〗^6 W
+
+Conversiones de unidades métricas
 	
 28. Determine lo siguiente:
 
@@ -152,5 +154,151 @@ c)	100(55x10^-3) = 5.5 = 5500x10^3
 	El número de kilowatts en 155 miliwatts
 
 ((155 mW)*(1x10^-6kW))/1mW=1.55x10^-4kW 
+
+30. Realice las siguientes operaciones:
+
+	10 kΩ ÷(2.2 kΩ+10 kΩ) =10kΩ÷(12.2 kΩ) =〖819.6x10〗^3 Ω=819.6kΩ
+
+	250mV÷50µV=〖250x10〗^(-3)÷〖50x10〗^(-6)=〖5x10〗^3=5kV
+
+	1MW÷2Kw=500 W
+
+
+CAPITULO 2
+
+Carga eléctrica
+
+2. ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
+
+Cloro: 17 e
+
+Q=(17 e)/(〖6.25x10〗^18 e/C)=〖2.72x10〗^(-18) C
+
+4.¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
+
+80µC=(0.000001C/(1µC)) 〖8x10〗^(-5) C
+
+(〖8x10〗^(-5) C )=(n.  electrones)/(〖6.25x10〗^18 e/C)
+
+n. electrones = (〖8x10〗^(-5) C )( 〖6.25x10〗^18 e/C) = 〖5x10〗^14e
+
+Voltaje, corriente y resistencia
+
+6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+V=w/Q=(500 J)/(100 C)=5 V
+
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2?5 C por un circuito?
+
+V=w/Q     12V(2.5 C)= W
+
+W=30 J
+
+10. Determine la corriente en cada uno de los siguientes casos:
+
+	75 C en un 1 s
+
+I=Q/t=(75 C)/(1 s)=75 A
+
+	10C en 0.5s = 2 A
+
+	5 C en 2s =2.5 A
+
+
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+I=Q/t      t=(10 C)/5A =2s
+
+14. 〖8x10〗^(-5)electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+I=(〖0.9184x10〗^(-1) C)/(0.25 s)= 0.367 A
+
+16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+
+	0.1 S
+
+G=1/R      R=1/0.1 = 10 Ω
+
+	0.5 S 
+
+R=(1)/(0.5) = 2Ω 
+
+	0.02 S
+
+R= (1)/(0.02) = 50 Ω
+
+Fuentes de voltaje y de corriente
+
+18. ¿En qué principio se basan los generadores eléctricos?  Se basa en un principio llamado Inducción electromagnética 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿cuál es la corriente en la carga?
+
+I=100mA 
+
+R= 1 kΩ
+
+I=V/R           V=I*R=(100mA)(1kΩ)=100 
+
+I= 100V/500 = 0.2 A
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+	Rojo, violeta, naranja, oro
+	
+27000Ω ±5% 
+
+	Café, gris, rojo, plata
+
+1800Ω ±10%
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+	café, negro, negro, oro
+
+100Ω ±5%
+
+	verde, café, verde, plata
+5100000Ω ±10%
+
+	azul, gris, negro, oro
+
+680 ±Ω2%
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+	rojo, gris, violeta, rojo, café
+
+28700Ω ±1%
+
+	azul, negro, amarillo, oro, café
+
+604 Ω ±1%
+
+	blanco, naranja, café, café, café
+
+9310 ±Ω
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+La terminal 1 y 2 tienen resistencia fija el cual la resistencia total son 1000Ω, la terminal 3 varía entre 3 y 1 o tan bien entre 3 y 2 subiendo o bajando el contacto.
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+
+	4R7J =4.7 Ω ±5%
+
+	5602M = 5602 MΩ
+
+
+	1501F= 1501 Ω ±1%
+
+El circuito eléctrico
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+
+
+
+
+
+
+
+
 
 
