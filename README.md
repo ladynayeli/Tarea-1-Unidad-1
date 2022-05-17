@@ -336,6 +336,7 @@ La resistencia que se está midiendo es de 100 Ω
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 Un multímetro de 4 ½ dígitos muestra recuenteos de 19.999 de resolución.
 
+
 3. Video
 
 4. Conclusiones
@@ -347,8 +348,7 @@ Un multímetro de 4 ½ dígitos muestra recuenteos de 19.999 de resolución.
 
 •	Finalmente, los conceptos básicos permitieron que la resolución de los ejercicios, se hayan elaborado de manera ordenada y eficiente.
 
-
-4.Bibliografia
+5. Bibliografia
 
 Floyd, T. (2007). Principios de circuitos electricos. CDMX, Mexico: Pearson.
 
