@@ -141,7 +141,7 @@ Conversiones de unidades métricas
 
 	El número de microamperes en 1 miliamperio
 	
-1mA = 1000 μA
+1mA = 1 000  μA     
 
 	El número de milivolts en 0.05 kilovolts
 
@@ -289,10 +289,12 @@ La terminal 1 y 2 tienen resistencia fija el cual la resistencia total son 1000�
 
 	1501F= 1501 Ω ±1%
 
-El circuito eléctrico
+El circuito eléctri.
 
 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
 
+![image](https://user-images.githubusercontent.com/105687213/168752762-4cb87a2d-211a-42ba-852f-e4fef8f99792.png)
+![image](https://user-images.githubusercontent.com/105687213/168752828-f03da48f-92a8-4442-b2d9-691a84113cbd.png)
 
 
 
