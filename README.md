@@ -73,6 +73,7 @@ c)	1.0x10^1= 10
 
 	(〖4.2x10〗^8)÷( 〖2x10〗^(-5)) = 〖2.1x10〗^13
 
+------------------------------
 
 Notación de ingeniería y prefijos métricos
 
@@ -135,6 +136,8 @@ c)	100(55x10^-3) = 5.5 = 5500x10^3
 
 	10MW= 〖10x10〗^6 W
 
+-----------------------------------
+
 Conversiones de unidades métricas
 	
 28. Determine lo siguiente:
@@ -163,10 +166,11 @@ Conversiones de unidades métricas
 
 	1MW÷2Kw=500 W
 
+-----------------------------------------------
 
 CAPITULO 2
 
-Carga eléctrica
+Carga eléctrica.
 
 2. ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
 
@@ -226,6 +230,8 @@ R=(1)/(0.5) = 2Ω
 	0.02 S
 
 R= (1)/(0.02) = 50 Ω
+
+------------------------------------
 
 Fuentes de voltaje y de corriente
 
@@ -288,6 +294,7 @@ La terminal 1 y 2 tienen resistencia fija el cual la resistencia total son 1000�
 
 
 	1501F= 1501 Ω ±1%
+--------------------------------------------------------
 
 El circuito eléctri.
 
@@ -308,6 +315,8 @@ En R5 siempre habrá corriente sin importar la posición de los interruptores.
 
 
 ![image](https://user-images.githubusercontent.com/105687213/168753024-c512fec6-ee53-430f-921b-fca89d70c083.png)
+
+------------------------------------------------
 
 Mediciones de circuitos básicas
  
