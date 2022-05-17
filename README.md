@@ -336,6 +336,7 @@ La resistencia que se está midiendo es de 100 Ω
 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 Un multímetro de 4 ½ dígitos muestra recuenteos de 19.999 de resolución.
 
+-------------
 
 3. Video
 
