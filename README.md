@@ -64,7 +64,7 @@ c)	1.0x10^1= 10
 	〖(1.5x10〗^(-12))- 〖(8x10〗^(-13))= 〖(1.5x10〗^(-12))- 〖(0.8x10〗^(-12))
 	
 
-11..Realice la siguientes divisiones
+12.Realice las siguentes divisiones
 
 
 	(〖1.0x10〗^3)÷( 〖2.5x10〗^2) = 〖0.4x10〗^1= 4
