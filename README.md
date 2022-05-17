@@ -15,4 +15,4 @@ Describir y analizar todos los temas abordados en el capítulo 1 y 2, lo que per
 ![Untitled Diagram (6)](https://user-images.githubusercontent.com/105687213/168738609-248a5fbc-2b0f-40a3-9c11-2f29dfb41b35.jpg)
 
 
-![Untitled Diagram (4)](https://user-images.githubusercontent.com/105687213/168739356-d183d769-c15b-4fbd-a040-d6370bc0f5d2.jpg)
+![Untitled Diagram (9)](https://user-images.githubusercontent.com/105687213/168747198-8e1c5d62-ac07-4fe5-a30e-4dfd883c121b.jpg)
