@@ -266,7 +266,7 @@ I= 100V/500 = 0.2 A
 
 	azul, gris, negro, oro
 
-680 ±Ω2%
+680 ±Ω 5%
 
 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 
