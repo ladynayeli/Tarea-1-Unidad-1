@@ -78,9 +78,9 @@ Notación de ingeniería y prefijos métricos
 
 14. Exprese cada número en notación de ingeniería:
 
-a)	2.35x10^5= 235x10^3
-
-b)	7.32x10^7= 73.2x10^6
+a)	2.35x10^5= 235x10^3       
+     
+b)	7.32x10^7= 73.2x10^6   
 
 c)	1.333x10^9= 1,333x10^6
 
@@ -99,5 +99,58 @@ a)	(32x10^-3)(56x10^3)= (1792x10^0) = 1792 = 1.792x10^3
 b)	(1.2x10^-6)(1.2x10^-6) = 1.44x10^-16
 
 c)	100(55x10^-3) = 5.5 = 5500x10^3
+
+
+20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico
+
+	89,000 = 〖89x10〗^3 Ω=89 kΩ
+
+	450,000 =〖1.0x10〗^3=450 kΩ
+
+	12,040,000,000,000 = 〖12.040x10〗^9=12.040GΩ
+
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+	〖31x10〗^(-3) A=31mA
+
+	〖5.5x10〗^3 V=5.5kA 
+
+	〖20x10〗^(-12) F= 20 pF
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos
+
+	〖2.5x10〗^(-12) A=2.5pA
+
+	〖8x10〗^9 Hz=8GHz
+
+	〖4.7x10〗^3 Ω= 4.7kΩ
+
+
+26. Exprese cada cantidad en notación de ingeniería
+
+	5µA= 〖5x10〗^(-6)
+
+	43Mv= 〖43x10〗^(-3) V
+
+	275kΩ=〖275x10〗^3 Ω
+
+	10MW= 〖10x10〗^6 W
+	
+28. Determine lo siguiente:
+
+	El número de microamperes en 1 miliamperio
+	
+1mA = 1000 μA
+
+	El número de milivolts en 0.05 kilovolts
+
+((0.05 kV)*(1x10^6 mV))/1kV=50000mV 
+
+	El número de megohms en 0.02 kilohms
+
+((0.02 kΩ)*(1x10^-3MΩ))/1kΩ=2x10^-5MΩ 
+
+	El número de kilowatts en 155 miliwatts
+
+((155 mW)*(1x10^-6kW))/1mW=1.55x10^-4kW 
 
 
