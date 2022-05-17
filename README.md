@@ -347,9 +347,11 @@ Un multímetro de 4 ½ dígitos muestra recuenteos de 19.999 de resolución.
 
 -------------
 
-3. Video
+4.Vide
 
-4. Conclusiones
+
+5. Conclusiones
+
 
 •	Tras el análisis, podemos deducir que la notación científica y la notación de ingeniería son dos cosas diferentes, ya que en la notación científica puede el exponente tomar distintos valores sean positivos o negativos, en cambio la notación de ingenierías el exponente toma valores de múltiplos de 3, cabe mencionar que esta notación sirve para representar valores como de voltaje, corriente, resistencia, capacitores. 
 
@@ -358,7 +360,7 @@ Un multímetro de 4 ½ dígitos muestra recuenteos de 19.999 de resolución.
 
 •	Finalmente, los conceptos básicos permitieron que la resolución de los ejercicios, se hayan elaborado de manera ordenada y eficiente.
 
-5. Bibliografia
+6. Bibliografia
 
 Floyd, T. (2007). Principios de circuitos electricos. CDMX, Mexico: Pearson.
 
