@@ -63,6 +63,7 @@ c)	1.0x10^1= 10
 
 	〖(1.5x10〗^(-12))- 〖(8x10〗^(-13))= 〖(1.5x10〗^(-12))- 〖(0.8x10〗^(-12))
 
+
 12. Realice las siguientes multiplicaciones:
 
 	(〖1.0x10〗^3)÷( 〖2.5x10〗^2) = 〖0.4x10〗^1= 4
@@ -72,3 +73,29 @@ c)	1.0x10^1= 10
 	(〖4.2x10〗^8)÷( 〖2x10〗^(-5)) = 〖2.1x10〗^13
 
 Notación de ingeniería y prefijos métricos
+
+14. Exprese cada número en notación de ingeniería:
+
+a)	2.35x10^5= 235x10^3
+
+b)	7.32x10^7= 73.2x10^6
+
+c)	1.333x10^9= 1,333x10^6
+
+16. Exprese cada número en notación de ingeniería:
+
+a)	9.81x10^-3= 9.81x10^-3
+
+b)	4.82x10^-4= 482x10^-6
+
+c)	4.38x10^-7= 438x10^-9
+
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
+
+a)	(32x10^-3)(56x10^3)= (1792x10^0) = 1792 = 1.792x10^3
+
+b)	(1.2x10^-6)(1.2x10^-6) = 1.44x10^-16
+
+c)	100(55x10^-3) = 5.5 = 5500x10^3
+
+
