@@ -16,3 +16,7 @@ Describir y analizar todos los temas abordados en el capítulo 1 y 2, lo que per
 
 
 ![Untitled Diagram (9)](https://user-images.githubusercontent.com/105687213/168747198-8e1c5d62-ac07-4fe5-a30e-4dfd883c121b.jpg)
+
+3.-Resolución de ejercicios pares
+CAPITULO 1
+Notación Científica
